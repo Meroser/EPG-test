@@ -3,15 +3,18 @@
 # Meroser's IPTV
 欢迎来到Meroser的直播源仓库🎉
 
-<font color="#dd0000">开源、纯净访问、集成高清台标、几近完美的EPG</font>
-本播放列表完美集成高清台标🔮，EPG深度定制匹配频道列表，几乎每个频道都有完整的预告。
+🎈**高清、流畅、几近完美**的直播观看体验🎈
+
+🔮本播放列表完美集成**高清台标**
+💯EPG深度**定制匹配**频道列表
+🈶几乎每个频道都有**完整**的预告[`咪咕除外`]
 
 **声明：**
-- 所有播放源均收集于互联网，仅供**测试研究使用**，不得**商用**。
-- 本项目不存储任何的流媒体内容，所有的法律责任与后果应由使用者自行承担。
+所有播放源均收集于互联网，仅供**测试研究使用**，不得**商用**。
+本项目不存储任何的流媒体内容，所有的法律责任与后果应由使用者自行承担。
 
-<p align="center">
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Meroser/IPTV">
+<p>
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Meroser/IPTV">v
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/Meroser/IPTV">
 <img alt="GitHub issues" src="https://img.shields.io/github/issues/Meroser/IPTV">
 <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Meroser/IPTV">
