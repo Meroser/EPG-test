@@ -11,13 +11,13 @@
 
 🈶几乎每个频道都有**完整**的预告[`咪咕除外`]
 
-## 📖声明：
-所有播放源均收集于互联网，仅供**测试研究使用**，不得**商用**。
+## 📖说明
+所有播放源均收集于互联网🌐，仅供**测试研究使用**，不得**商用**。
 
 本项目不存储任何的流媒体内容，所有的法律责任与后果应由使用者自行承担。
 
 <p>
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Meroser/IPTV">v
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Meroser/IPTV">
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/Meroser/IPTV">
 <img alt="GitHub issues" src="https://img.shields.io/github/issues/Meroser/IPTV">
 <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Meroser/IPTV">
@@ -25,7 +25,7 @@
 <img alt="GitHub" src="https://img.shields.io/github/license/Meroser/IPTV">
 </p>
 
-## 🏄‍♀️源地址:
+## 🏄‍♀️源地址
 
 
 |     📦 名称      |                         🔗直播源地址                          | 🔢频道数 |   🅿状态   | 🆕更新时间  |
