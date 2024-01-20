@@ -1,6 +1,6 @@
 <img align="right" width="300" height="180" src="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan.png">
-# Meroser's IPTV:chicken:
 
+# Meroser's IPTV
 欢迎来到Meroser的直播源仓库🎉
 
 本仓库是一个公益仓库，立志于为大家来
