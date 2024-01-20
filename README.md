@@ -3,25 +3,21 @@
 # Meroser's IPTV
 欢迎来到Meroser的直播源仓库🎉
 
-本仓库是一个公益仓库，立志于为大家来
-
+<font color="#dd0000">开源、纯净访问、集成高清台标、几近完美的EPG</font>
 本播放列表完美集成高清台标🔮，EPG深度定制匹配频道列表，几乎每个频道都有完整的预告。
 
+**声明：**
 - 所有播放源均收集于互联网，仅供**测试研究使用**，不得**商用**。
 - 本项目不存储任何的流媒体内容，所有的法律责任与后果应由使用者自行承担。
 
-<p>
+<p align="center">
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Meroser/IPTV">
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/Meroser/IPTV">
 <img alt="GitHub issues" src="https://img.shields.io/github/issues/Meroser/IPTV">
-</p>
-<p>
 <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Meroser/IPTV">
 <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Meroser/IPTV">
 <img alt="GitHub" src="https://img.shields.io/github/license/Meroser/IPTV">
 </p>
-
-
 
 ## 🏄‍♀️源地址:
 
@@ -38,9 +34,9 @@
 
 <u>如果不会操作请直接复制下面的小白链接↙</u>
 
-链接[IPv6]：`https://raw.fgit.cf/Meroser/IPTV/main/IPTV.m3u`
+链接[IPv6]：`https://raw.fgit.cf/Meroser/IPTV/main/IPTV.m3u`[推荐✨]
 
-链接[TVbox]：`https://raw.fgit.cf/Meroser/IPTV/main/IPTV-tvbox.txt`
+链接[TVbox]：`https://raw.fgit.cf/Meroser/IPTV/main/IPTV-tvbox.txt`[需IPv6支持]
 
 ## 🛠️工具
 ### 📆EPG文件地址[tvxml格式]：
