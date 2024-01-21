@@ -55,14 +55,6 @@
 
 <u>注：稳定版每天00:25左右自动更新，请根据自身网络情况选择以上可用地址访问。🎈测试版目前仅提供gz版，每日不定时手动更新。相对于稳定版预告内容更加详细，比如当前播放电视剧/电影的详情，包括：剧情简介、导演、编剧、主要演员等信息🎈欢迎测试反馈。。。</u>
 
-### 🎬IPTV播放器
-- 📺*Android TV：*[Tivimate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv&hl=zh&gl=US)[强烈推荐✨✨`app付费，但体验极好`]，[Televizo](https://files.televizo.net/televizo-default.apk)[`有广告，有内购`]，[Perfect IPTV Player](https://play.google.com/store/apps/details?id=com.leuco.iptv&hl=zh&gl=US)
-- 💻*Windows：*[Potplayer](https://potplayer.daum.net/)[`Windows上最好用的本地视频播放器`]，[VLC](https://www.videolan.org/)[`开源神器，支持多平台`]
-- 📱*IOS：*[APTV](https://apps.apple.com/cn/app/aptv/id1630403500)[推荐✨`免费一条订阅，有内购解锁`]，[ntPlayer](https://apps.apple.com/cn/app/ntplayer/id1613758141)[`不限制订阅数量、良心，有内购去广告`]
-- 📡*MAC：*[APTV](https://apps.apple.com/cn/app/aptv/id1630403500)[推荐✨`免费一条订阅，有内购解锁`]，[IINA](https://github.com/iina/iina)[`Mac上最好用的本地视频播放器`]
-- 💽*Apple TV：*[APTV](https://apps.apple.com/cn/app/aptv/id1630403500)[推荐✨`免费一条订阅，有内购解锁]`
-- 📲*Android：*[Televizo](https://files.televizo.net/televizo-default.apk) [推荐✨`手机上体验不错、有广告、有内购`]
-
 ### 📝关于TVBOX和DIYP上的EPG接口
 
 - erw.cc：`https://epg.erw.cc/api/diyp/?ch={name}&date={date}` *<u>推荐✨节目信息比较准确</u>*
@@ -71,16 +63,15 @@
 
 <u>注：本仓库只提供tvxml格式的EPG(即节目预告)，TVbox和DIYP使用的是EPG接口，不适用于本仓库的，对于TVbox和DIYP用户推荐使用以上两个EPG接口。</u>
 
-### 💡致谢：
-- Logo来源：[https://github.com/wanglindl/TVlogo](https://github.com/wanglindl/TVlogo)[`特别感谢`]
-- wcb1969：[wcb1969/iptv: tv (github.com)](https://github.com/wcb1969/iptv)[`特别感谢`]
-- fanmingming：[fanmingming/live(github.com)](https://github.com/fanmingming/live)[`特别感谢`]
-- Yuechan：[YueChan/Live: 收集于互联网的一些高清直播源。 (github.com)](https://github.com/YueChan/Live/tree/main)[`特别感谢`]
-- YanG-1989：[YanG-1989/m3u: 直播源 (github.com)](https://github.com/YanG-1989/m3u)[`特别感谢`]
-- [erc.cc](https://epg.erw.cc/)及[112114](https://epg.112114.xyz)提供的epg接口[`特别感谢`]
-- GitHub及互联网(<u>EPG提供商</u>)其他资源[`特别感谢`]
+<img align="right" width="280" height="350" src="https://cdn.jsdelivr.net/gh/Meroser/EPG-test@main/IPTV_Player.png">
 
-<u>说明：本仓库部分内容引用或参考以上内容，在此表示感谢！！！🎈</u>
+## 🎬IPTV播放器
+- 📺*Android TV：*[Tivimate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv&hl=zh&gl=US)[强烈推荐✨✨`app付费，但体验极好`]，[Televizo](https://files.televizo.net/televizo-default.apk)[`有广告，有内购`]，[Perfect IPTV Player](https://play.google.com/store/apps/details?id=com.leuco.iptv&hl=zh&gl=US)
+- 💻*Windows：*[Potplayer](https://potplayer.daum.net/)[`Windows上最好用的本地视频播放器`]，[VLC](https://www.videolan.org/)[`开源神器，支持多平台`]
+- 📱*IOS：*[APTV](https://apps.apple.com/cn/app/aptv/id1630403500)[推荐✨`免费一条订阅，有内购解锁`]，[ntPlayer](https://apps.apple.com/cn/app/ntplayer/id1613758141)[`不限制订阅数量、良心，有内购去广告`]
+- 📡*MAC：*[APTV](https://apps.apple.com/cn/app/aptv/id1630403500)[推荐✨`免费一条订阅，有内购解锁`]，[IINA](https://github.com/iina/iina)[`Mac上最好用的本地视频播放器`]
+- 💽*Apple TV：*[APTV](https://apps.apple.com/cn/app/aptv/id1630403500)[推荐✨`免费一条订阅，有内购解锁]`
+- 📲*Android：*[Televizo](https://files.televizo.net/televizo-default.apk) [推荐✨`手机上体验不错、有广告、有内购`]
 
 ## 📒频道列表
 ### 📀央视高清/20个频道
@@ -109,3 +100,16 @@
 - 2024.01.17 移除CETV-2、CETV-3[`原因：网友反馈节目质量一般且画质不佳`]
 - 2024.01.13 修复凤凰三个频道，更新CGTN纪录为咸阳移动源，新增梨园频道
 - 2024.01.08 通过遍历/咸阳移动IPTV的id找到了CGTN俄语高清频道id为2883 至此集齐全套CGTN高清🎉🎉🎉
+
+<img align="right" width="300" height="300" src="https://cdn.jsdelivr.net/gh/Meroser/EPG-test@main/Thanks.gif">
+
+## 💡致谢：
+- Logo来源：[https://github.com/wanglindl/TVlogo](https://github.com/wanglindl/TVlogo)[`特别感谢`]
+- wcb1969：[wcb1969/iptv: tv (github.com)](https://github.com/wcb1969/iptv)[`特别感谢`]
+- fanmingming：[fanmingming/live(github.com)](https://github.com/fanmingming/live)[`特别感谢`]
+- Yuechan：[YueChan/Live(github.com)](https://github.com/YueChan/Live/tree/main)[`特别感谢`]
+- YanG-1989：[YanG-1989/m3u(github.com)](https://github.com/YanG-1989/m3u)[`特别感谢`]
+- [erc.cc](https://epg.erw.cc/)及[112114](https://epg.112114.xyz)提供的epg接口[`特别感谢`]
+- GitHub及互联网(<u>EPG提供商</u>)其他资源[`特别感谢`]
+
+<u>说明：本仓库部分内容引用或参考以上内容，在此表示感谢！！！🎈</u>
