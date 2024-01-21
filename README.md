@@ -1,6 +1,6 @@
 <img align="right" width="350" height="270" src="https://cdn.jsdelivr.net/gh/Meroser/EPG-test@main/Meroser.png">
 
-# Meroser's IPTV
+# Meroser's IPTV📺
 欢迎来到Meroser的直播源仓库🎉
 
 🎈**高清、流畅、几近完美**的直播观看体验🎈**强迫症福音**
@@ -44,12 +44,17 @@
 
 链接[TVbox]：`https://raw.fgit.cf/Meroser/IPTV/main/IPTV-tvbox.txt`[需IPv6支持]
 
-## 🛠️工具
+## 🛠️EPG
+
+**科普**🎭：电子节目指南（electrical program guide，简称EPG）是Electronic Program Guide的英文缩写，意思是电子节目菜单，即**节目预告**。
+
 ### 📆EPG文件地址[tvxml格式]：
-- 稳定版：`https://raw.fgit.cf/Meroser/IPTV/main/tvxml.xml`[推荐✨]
-  - 备用地址：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml`
-- 测试版：`https://raw.fgit.cf/Meroser/EPG-test/main/tvxml-test.xml.gz`[推荐✨]
-  - 备用地址：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz`
+- **稳定版：** 稳定、定时更新、信息准确🎈
+  - CDN地址1：`https://raw.fgit.cf/Meroser/IPTV/main/tvxml.xml`[推荐✨]
+  - CDN地址2：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml`
+- **测试版：** 内容详细、不定时手动更新、尝鲜🎈
+  - CDN地址1：`https://raw.fgit.cf/Meroser/EPG-test/main/tvxml-test.xml.gz`[推荐✨]
+  - CDN地址2：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz`
 
 <u>注：稳定版每天00:25左右自动更新，请根据自身网络情况选择以上可用地址访问。🎈测试版目前仅提供gz版，每日不定时手动更新。相对于稳定版预告内容更加详细，比如当前播放电视剧/电影的详情，包括：剧情简介、导演、编剧、主要演员等信息🎈欢迎测试反馈。。。</u>
 
@@ -66,13 +71,13 @@
 ## 🎬IPTV播放器
 📺*Android TV：*[Tivimate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv&hl=zh&gl=US)[强烈推荐✨✨`app付费，但体验极好`]，[Televizo](https://files.televizo.net/televizo-default.apk)
 
-💻*Windows：*[Potplayer](https://potplayer.daum.net/)[`Windows上最好用的本地视频播放器`]，[VLC](https://www.videolan.org/)
+💻*Windows：*[Potplayer](https://potplayer.daum.net/)[`Windows上最好用的本地视频播放器`]，[VLC](https://www.videolan.org/)[`开源神器`]
 
 📱*IOS：*[APTV](https://apps.apple.com/cn/app/aptv/id1630403500)[推荐✨]，[ntPlayer](https://apps.apple.com/cn/app/ntplayer/id1613758141)[`不限制订阅数量、良心，有内购去广告`]
 
 📡*MAC：*[APTV](https://apps.apple.com/cn/app/aptv/id1630403500)[推荐✨]，[IINA](https://github.com/iina/iina)[`Mac上最好用的本地视频播放器`]
 
-💽*Apple TV：*[APTV](https://apps.apple.com/cn/app/aptv/id1630403500)[推荐✨]
+💽*Apple TV：*[APTV](https://apps.apple.com/cn/app/aptv/id1630403500)[推荐✨`体验好，跨平台`]
 
 📲*Android：*[Televizo](https://files.televizo.net/televizo-default.apk) [推荐✨`手机上体验不错、有广告、有内购`]
 
@@ -108,10 +113,10 @@
 
 ## 💡致谢：
 - Logo来源：[https://github.com/wanglindl/TVlogo](https://github.com/wanglindl/TVlogo)[`特别感谢`]
-- wcb1969：[wcb1969/iptv: tv (github.com)](https://github.com/wcb1969/iptv)[`特别感谢`]
-- fanmingming：[fanmingming/live(github.com)](https://github.com/fanmingming/live)[`特别感谢`]
-- Yuechan：[YueChan/Live(github.com)](https://github.com/YueChan/Live/tree/main)[`特别感谢`]
-- YanG-1989：[YanG-1989/m3u(github.com)](https://github.com/YanG-1989/m3u)[`特别感谢`]
+- wcb1969：[https://github.com/wcb1969/iptv](https://github.com/wcb1969/iptv)[`特别感谢`]
+- fanmingming：[https://github.com/fanmingming/live](https://github.com/fanmingming/live)[`特别感谢`]
+- Yuechan：[https://github.com/YueChan/Live](https://github.com/YueChan/Live)[`特别感谢`]
+- YanG-1989：[https://github.com/YanG-1989/m3u](https://github.com/YanG-1989/m3u)[`特别感谢`]
 - [erc.cc](https://epg.erw.cc/)及[112114](https://epg.112114.xyz)提供的epg接口[`特别感谢`]
 - GitHub及互联网(<u>EPG提供商</u>)其他资源[`特别感谢`]
 
