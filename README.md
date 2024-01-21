@@ -46,9 +46,9 @@
 
 ## 🛠️工具
 ### 📆EPG文件地址[tvxml格式]：
-- 稳定版[推荐✨]：`https://raw.fgit.cf/Meroser/IPTV/main/tvxml.xml`
+- 稳定版：`https://raw.fgit.cf/Meroser/IPTV/main/tvxml.xml`[推荐✨]
   - 备用地址：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml`
-- 测试版[推荐✨]：`https://raw.fgit.cf/Meroser/EPG-test/main/tvxml-test.xml.gz`
+- 测试版：`https://raw.fgit.cf/Meroser/EPG-test/main/tvxml-test.xml.gz`[推荐✨]
   - 备用地址：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz`
 
 <u>注：稳定版每天00:25左右自动更新，请根据自身网络情况选择以上可用地址访问。🎈测试版目前仅提供gz版，每日不定时手动更新。相对于稳定版预告内容更加详细，比如当前播放电视剧/电影的详情，包括：剧情简介、导演、编剧、主要演员等信息🎈欢迎测试反馈。。。</u>
@@ -64,17 +64,17 @@
 <img align="right" width="280" height="350" src="https://cdn.jsdelivr.net/gh/Meroser/EPG-test@main/IPTV_Player.png">
 
 ## 🎬IPTV播放器
-📺*Android TV：*[Tivimate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv&hl=zh&gl=US)[强烈推荐✨✨]，[Televizo](https://files.televizo.net/televizo-default.apk)
+📺*Android TV：*[Tivimate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv&hl=zh&gl=US)[强烈推荐✨✨`app付费，但体验极好`]，[Televizo](https://files.televizo.net/televizo-default.apk)
 
-💻*Windows：*[Potplayer](https://potplayer.daum.net/)，[VLC](https://www.videolan.org/)
+💻*Windows：*[Potplayer](https://potplayer.daum.net/)[`Windows上最好用的本地视频播放器`]，[VLC](https://www.videolan.org/)
 
-📱*IOS：*[APTV](https://apps.apple.com/cn/app/aptv/id1630403500)[推荐✨]，[ntPlayer](https://apps.apple.com/cn/app/ntplayer/id1613758141)
+📱*IOS：*[APTV](https://apps.apple.com/cn/app/aptv/id1630403500)[推荐✨]，[ntPlayer](https://apps.apple.com/cn/app/ntplayer/id1613758141)[`不限制订阅数量、良心，有内购去广告`]
 
-📡*MAC：*[APTV](https://apps.apple.com/cn/app/aptv/id1630403500)[推荐✨]，[IINA](https://github.com/iina/iina)
+📡*MAC：*[APTV](https://apps.apple.com/cn/app/aptv/id1630403500)[推荐✨]，[IINA](https://github.com/iina/iina)[`Mac上最好用的本地视频播放器`]
 
 💽*Apple TV：*[APTV](https://apps.apple.com/cn/app/aptv/id1630403500)[推荐✨]
 
-📲*Android：*[Televizo](https://files.televizo.net/televizo-default.apk) [推荐✨]
+📲*Android：*[Televizo](https://files.televizo.net/televizo-default.apk) [推荐✨`手机上体验不错、有广告、有内购`]
 
 ## 📒频道列表
 ### 📀央视高清/20个频道
