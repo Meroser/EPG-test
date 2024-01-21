@@ -64,12 +64,17 @@
 <img align="right" width="280" height="350" src="https://cdn.jsdelivr.net/gh/Meroser/EPG-test@main/IPTV_Player.png">
 
 ## 🎬IPTV播放器
-- 📺*Android TV：*[Tivimate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv&hl=zh&gl=US)[强烈推荐✨✨]，[Televizo](https://files.televizo.net/televizo-default.apk)，[Perfect IPTV Player](https://play.google.com/store/apps/details?id=com.leuco.iptv&hl=zh&gl=US)
-- 💻*Windows：*[Potplayer](https://potplayer.daum.net/)，[VLC](https://www.videolan.org/)
-- 📱*IOS：*[APTV](https://apps.apple.com/cn/app/aptv/id1630403500)[推荐✨]，[ntPlayer](https://apps.apple.com/cn/app/ntplayer/id1613758141)
-- 📡*MAC：*[APTV](https://apps.apple.com/cn/app/aptv/id1630403500)[推荐✨]，[IINA](https://github.com/iina/iina)
-- 💽*Apple TV：*[APTV](https://apps.apple.com/cn/app/aptv/id1630403500)[推荐✨]
-- 📲*Android：*[Televizo](https://files.televizo.net/televizo-default.apk) [推荐✨]
+📺*Android TV：*[Tivimate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv&hl=zh&gl=US)[强烈推荐✨✨]，[Televizo](https://files.televizo.net/televizo-default.apk)
+
+💻*Windows：*[Potplayer](https://potplayer.daum.net/)，[VLC](https://www.videolan.org/)
+
+📱*IOS：*[APTV](https://apps.apple.com/cn/app/aptv/id1630403500)[推荐✨]，[ntPlayer](https://apps.apple.com/cn/app/ntplayer/id1613758141)
+
+📡*MAC：*[APTV](https://apps.apple.com/cn/app/aptv/id1630403500)[推荐✨]，[IINA](https://github.com/iina/iina)
+
+💽*Apple TV：*[APTV](https://apps.apple.com/cn/app/aptv/id1630403500)[推荐✨]
+
+📲*Android：*[Televizo](https://files.televizo.net/televizo-default.apk) [推荐✨]
 
 ## 📒频道列表
 ### 📀央视高清/20个频道
